@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://caequaaqu.utdgas.com/sitemap.xml
